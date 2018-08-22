@@ -1,1 +1,1 @@
-This repository contains generic Docker images that are used by Pterodactyl Panel to run games. With the release of v0.7.X of our panel, we have moved to making the install process be a completely seperate part of the process, making it much easier to maintain a smaller set of Dockerfiles.
+This repository contains generic Docker images that are used by Pterodactyl Panel to run games.
